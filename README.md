@@ -3,7 +3,7 @@ What is intelligence in 2025? and how can it help you?
 
 # OSINT & Google Dorks
 
-# ![Osint](https://hacktheinfo.com/wp-content/uploads/2025/07/new-OSINT.png)
+# ![Osint]([https://hacktheinfo.com/wp-content/uploads/2025/07/new-OSINT.png](https://cdn.prod.website-files.com/62718f9c6a29172c3f932088/67c4a0448d0c30516780f8f7_Screenshot%202025-03-02%20at%2012.15.15%20PM.png))
 
 # ![Google Dorks](https://ezranking.s3.eu-west-2.amazonaws.com/blog/wp-content/uploads/2023/01/04121216/Overview-of-Google-Dorks.jpg)
 
